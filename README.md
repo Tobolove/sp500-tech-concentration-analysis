@@ -4,8 +4,6 @@
 
 People often call an S&P 500 ETF a broad investment in 500 companies. But the index is weighted by market value, so a few large technology companies get a big share of the money. This project measures how concentrated the index is. It then tests whether technology companies grew their revenue faster than the rest, which would be one reason for their large weight.
 
-Capstone Project 2 · Master's Degree in AI, Woolf University · Tobias Frei · 2026-11-26
-
 > This is a statistics exercise, not investment advice.
 
 ## Key findings
